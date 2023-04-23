@@ -6,10 +6,11 @@
 
 작업 기간 : 3/19 ~ 3/23 (5일간 진행)
 
-
 ### 📝Contents
 
 ### 배포 링크
+
+http://myswitch-on.s3-website.ap-northeast-2.amazonaws.com
 
 ### 실행 방법
 
@@ -61,11 +62,12 @@ $ npm start
 ```jsx
 📦
 ├─ public
-│  ├─ data 
+│  ├─ data
 │  └─ └─ mock_data.json
 ├─ src
 │  ├─ assets
-│  ├─ components 
+│  │  ├─ fonts
+│  ├─ components
 │  │  ├─ Common
 │  │  ├─  └─ Header.tsx
 │  │  ├─  └─ Loading.tsx
@@ -92,7 +94,7 @@ $ npm start
 │  │  └─ MainPage.tsx
 │  ├─ router
 │  │  └─ index.tsx
-│  ├─ styles 
+│  ├─ styles
 │  │  └─ CommonStyle.ts
 │  │  └─ FilterStyle.ts
 │  │  └─ GlobalFont.ts
@@ -100,10 +102,10 @@ $ npm start
 │  │  └─ PageStyle.ts
 │  │  └─ SearchStyle.ts
 │  │  └─ TableStyle.ts
-│  ├─ types 
+│  ├─ types
 │  │  └─ type.ts
 │  │  └─ index.ts
-│  ├─ utils 
+│  ├─ utils
 │  │  └─ api
 │  │  ├─  └─ Order.tsx
 │  │  ├─  └─ index.ts

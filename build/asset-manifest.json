@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.dc2892f7.js",
+    "static/media/NanumSquareRoundR.ttf": "/static/media/NanumSquareRoundR.f062cb52be3e9829834c.ttf",
+    "static/media/NanumSquareRoundB.ttf": "/static/media/NanumSquareRoundB.8ab117fc37409bd022e5.ttf",
+    "static/media/NanumSquareRoundEB.ttf": "/static/media/NanumSquareRoundEB.ef4043133d5b2d0febb4.ttf",
+    "static/media/NanumSquareRoundL.ttf": "/static/media/NanumSquareRoundL.34b53f3711c695552994.ttf",
+    "static/media/NanumSquareRoundR.woff": "/static/media/NanumSquareRoundR.a333abd9dbdde59720d2.woff",
+    "static/media/NanumSquareRoundB.woff": "/static/media/NanumSquareRoundB.4781df394beecef83161.woff",
+    "static/media/NanumSquareRoundEB.woff": "/static/media/NanumSquareRoundEB.62dbf448ca68f507a41d.woff",
+    "static/media/NanumSquareRoundL.woff": "/static/media/NanumSquareRoundL.f08224d8c6127b453307.woff",
+    "static/media/NanumSquareRoundR.woff2": "/static/media/NanumSquareRoundR.ca200c8509255deb08ea.woff2",
+    "static/media/NanumSquareRoundB.woff2": "/static/media/NanumSquareRoundB.b41913663ff3ff4ad27b.woff2",
+    "static/media/NanumSquareRoundEB.woff2": "/static/media/NanumSquareRoundEB.db7992c49ac3eaa4f728.woff2",
+    "static/media/NanumSquareRoundL.woff2": "/static/media/NanumSquareRoundL.4aa4e57c760130b586c8.woff2",
+    "static/media/Loading.gif": "/static/media/Loading.abcd71c5b50d1ba54511.gif",
+    "static/media/Logo.png": "/static/media/Logo.1b9354aec6d219d8af8a.png",
+    "index.html": "/index.html",
+    "main.dc2892f7.js.map": "/static/js/main.dc2892f7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dc2892f7.js"
+  ]
+}
