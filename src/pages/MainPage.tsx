@@ -1,5 +1,5 @@
 import { Header, Filter, Pagination, Search, Table } from 'components';
-import { useOrderData, usePageData } from 'hooks';
+import { usePageData } from 'hooks';
 import * as S from 'styles/CommonStyle';
 
 const MainPage = () => {
