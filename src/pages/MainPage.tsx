@@ -1,14 +1,9 @@
-import { Header, Loading, Filter, Pagination, Search, Table } from 'components';
+import { Header, Filter, Pagination, Search, Table } from 'components';
 import { useOrderData, usePageData } from 'hooks';
 import * as S from 'styles/CommonStyle';
 
 const MainPage = () => {
   const { pages, paginatedData } = usePageData();
-  const { isLoading } = useOrderData();
-
-  if (isLoading) {
-    <Loading />;
-  }
 
   return (
     <S.Main>
