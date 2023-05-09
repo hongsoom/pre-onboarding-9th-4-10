@@ -7,6 +7,7 @@
 작업 기간 : 3/19 ~ 3/23 (5일간 진행)
 
 ### 📝Contents
+
 ![스위치온](https://user-images.githubusercontent.com/99132215/233830368-e71e45d8-70e7-4af2-a234-6b16d29131e7.gif)
 
 ### 배포 링크
@@ -231,9 +232,7 @@ $ npm start
 
 Issue를 정의하고 하루에 한가지의 이슈를 다같이 진행한 후 피드백하는 식으로 동료 협업을 진행하였습니다.
 
----
-
-## [Issue](https://github.com/wanted-onboarding-10team/pre-onboarding-9th-4-10/issues)
+[Issue](https://github.com/wanted-onboarding-10team/pre-onboarding-9th-4-10/issues)
 
 ---
 
